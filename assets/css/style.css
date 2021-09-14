@@ -28,6 +28,7 @@ h1,h2,h3 {
     font-size: 150%;
     color:white;
     padding-left:20px;
+    letter-spacing: 3px;
 }
 
 #menu {
@@ -59,24 +60,75 @@ h1,h2,h3 {
 /* Hero Image */
 
 #hero-image {
-   
+    
     width:100%;
-    padding-top:42%;
+    padding-top:50%;
     background: url(../images/pexels-pixabay-164938.jpeg) no-repeat center center;
     background-size:cover;
     filter:brightness(75%)
 }
 
-#cover-text {
-    font-size: 130%;
-    letter-spacing:4px;
-    width:500px;
-    height:200px;
-    padding-top: 40px;
-    padding-left: 20px;
+/* about us section */
 
-    bottom:30px;
-    right:50px;
-    position:absolute;
-    background-color:rgb(172, 63, 191, .7)
+
+#studio-ethos {
+    
+    width:100%;
+    height: 350px;
+    
 }
+
+#about-us {
+    width: 100%;
+    height: 300px;
+    
+    
+}
+
+#about-us h2 {
+    text-align: center;
+    padding:20px;
+    padding-top:40px;
+    letter-spacing:0.2em
+}
+
+#about-us p {
+    display: block;
+    text-align: center;
+    padding:20px;
+    padding-top:40px;
+
+}
+
+#equiptment {width: 100%;
+    height: 300px;}
+
+#equiptment h2 {
+    text-align: center;
+    padding:20px;
+    padding-top:40px;
+    letter-spacing:0.2em
+}
+
+#equiptment p {
+    display: block;
+    text-align: center;
+    padding:20px;
+    padding-top:40px;
+}
+
+
+
+hr {
+    border: 1px solid black
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    
+}
+    
+
+
