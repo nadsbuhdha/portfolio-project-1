@@ -29,6 +29,7 @@ h1,h2,h3 {
     color:white;
     padding-left:20px;
     letter-spacing: 3px;
+    text-decoration: none;
 }
 
 #menu {
@@ -67,6 +68,24 @@ h1,h2,h3 {
     background-size:cover;
     filter:brightness(75%)
 }
+
+/* #hero-info {
+
+    text-align: center;
+    position: absolute;
+    top: 50vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(204, 101, 207, 0.7);
+    padding:10px;
+    font-size:80%;
+    
+
+}
+*/
+
+
 
 /* about us section */
 
@@ -166,6 +185,7 @@ footer li i {
 }
 
 
+
     
 /* medium screens */
 
@@ -200,7 +220,8 @@ footer li i {
     #logo {
         text-align: center;
         font-size:120%;
-        padding-left:0px
+        padding-left:0px;
+        
     }
 
     #studio-ethos {
