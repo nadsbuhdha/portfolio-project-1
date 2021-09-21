@@ -286,6 +286,10 @@ footer li i {
     visibility: visible;
     transition: all 0.3s 0.2s ease;
   }
+
+  .title  {
+      text-align:center;
+  }
   
     
 /* medium screens */
