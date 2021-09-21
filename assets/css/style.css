@@ -224,6 +224,23 @@ footer li i {
   .image-gallery .image-box:hover img {
     transform: scale(1.1);
   }
+
+  .image-gallery .image-box .overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #fafafaf2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: all 0.5s ease;
+    z-index: 1;
+  }
+
+  
     
 /* medium screens */
 
