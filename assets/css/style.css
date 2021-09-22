@@ -328,13 +328,20 @@ footer li i {
 
 /* cont page */
 
-.form-section {
-    clear: left;
+
+.gallery-background {
     background: url(../images/differentinstruments\ \(1\).jpeg);
     background-size: cover;
     background-position: center;
-    height: 900px;
+
 }
+
+.form-section {
+    clear: left;
+    height: 700px;
+    text-align: center;
+}
+
 
 .signup-form {
     margin: 150px 10% 0 0;
@@ -381,7 +388,24 @@ footer li i {
     color: #D83fe7;
 }
 
+/* google map */
 
+.mapwrapper {
+    max-width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+
+.googlemap {
+    width:100%;
+    
+    
+}
 
     
 /* Media Queries */
