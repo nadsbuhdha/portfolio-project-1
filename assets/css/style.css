@@ -185,9 +185,14 @@ footer li i {
 
 .sm-icons  {
     padding-top: 25px;
+    
 }
 
+.sm-icons :hover {  
+    transition: color 0.4s;
+    color:#D83fe7
 
+}
 
 
 /* gallary page */
