@@ -1,22 +1,25 @@
 # Can't Stop Wont Stop Studios
 
+![Alt Text](assets/images/multiple-platforms.webp)
+
+
 Can’t stop won’t stop studios is a specialist musician website that aims to offer a recording, rehearsal, mixing and mastering studio for musicians of varying abilities and ranges based in Nottingham. With ever growing accessibility of music hardware and software, ‘bedroom producers’ have become ever present; whereby musicians record, perform and create music within the confines of their own house. Whilst becoming ever popular, ‘Bedroom producing’ has its limitations such as: equipment space, sound quality, lack of support, sound acoustics and a variety of other issues. Music studios are therefore still an important cog in the musicians’ wheel. Can’t stop won’t stop studios aims to provide a space where musicians can bring skeleton ideas to finish off to achieve a professional sound, or create brand new musical ideas from scratch. Throughout the website, the aim is to showcase the studio, the equipment, the abilities in the studio and give musicians and idea of what they can expect should they book a session. 
 
 You can view the website here : https://nadsbuhdha.github.io/portfolio-project-1/index.html
 
 
 ## Aims 
-<hr>
+
 The aim of the website is to give musicians from varying different backgrounds a quality rehearsal, recording, mixing and mastering space with a range of equipment as well as space for individual’s equipment to be used. The website, through the gallery, demonstrates the availability of said equipment. 
 
 ## Target auidence
-<hr>
+
 The target audience for the website is musicians who need a studio to record or rehearse. The space is equipt so any genre of music can have access to equipment and space available. The accessibility of the studio allows beginner musicians to access the equipment and facilities with ease. In order to attract potential clients, equipment has been displayed alongside live music sessions to showcase the scope and range of what is achievable. 
 
 
 ## User expectations
 
-<hr>
+
 
 As there is a specific target audience, musicians, for this website the following user expectations were considered when creating the site:
 
@@ -41,21 +44,21 @@ A sleek purple which contrasted well with the dark navigation and footer, giving
 
 ## Fonts 
 
-<hr>
+
 
 Open sans was used for the heading fonts. Open sans is recommended for its legibility, high readability, and friendly appearance. Sans-serif was utilised as a back-up font. 
 
 Monserrat was chosen for the main body text. A clean and sophisticated font, it was recommended by google fonts to compliment Open Sans. San Serif was also used as a back-up font. 
 
 ## Wireframes 
-<hr>
+
 ** insert pics **
 
 Balsamiq was utilised to create wireframes of the website. Idea templates were mocked up in order to develop an idea of how elements of the websites would work across different platforms and how responsive elements may look resized.
 
 ## Features
 
-<hr>
+
 
 ### Navigation bar  
 
@@ -96,7 +99,7 @@ A google maps Is included under the contact form so users can easily locate the 
 
 
 ## Technologies used
-<br>
+
 * HTML5 – for structuring the website
 * CSS3 –  for styling the website
 * Balsamiq – for mock ups of the site
