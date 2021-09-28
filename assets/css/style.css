@@ -68,7 +68,7 @@ h1,h2,h3 {
     
     width:100%;
     padding-top:50%;
-    background: url(../images/compressed\ background.jpeg) no-repeat center center;
+    background: url(../images/hero-compressed.webp) no-repeat center center;
     background-size:cover;
     filter:brightness(75%)
 }
@@ -80,7 +80,7 @@ h1,h2,h3 {
     position: absolute;
     transform: translate(51%, -150%);
     color: white;
-    font-size:2vw;
+    font-size:1.5vw;
     justify-content: center;
     background-color: #1f1e2080
     
@@ -335,7 +335,7 @@ footer li i {
 
 
 .gallery-background {
-    background: url(../images/differentinstruments\ \(1\).jpeg);
+    background: url(../images/differentinstruments-compressed.webp);
     background-size: cover;
     background-position: center;
 
@@ -448,7 +448,12 @@ footer li i {
         text-align: center;
         font-size:120%;
         padding-left:0px;
+        text-decoration: none;
         
+    }
+
+    a {
+        text-decoration: none;
     }
 
     #studio-ethos {
@@ -476,5 +481,23 @@ footer li i {
   }
 }
 
+/* large screens */
+
+@media screen and (min-width: 1000px) {
+    .signup-form {
+      top: 30% 
+    }
+}
+ /* 4k screens */
+
+ @media screen and (min-width: 1940px) {
+    .gallery-background {
+        height: 1940px;
+    }
+
+    .googlemap {
+        padding-top:500px;
+    }
+ }
 
 
