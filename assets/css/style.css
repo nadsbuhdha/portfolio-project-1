@@ -500,4 +500,38 @@ footer li i {
     }
  }
 
+ /* gallery image hover effect */ 
+
+ @media screen and (min-device-width: 768px) {
+    .image-gallery .image-box:active .overlay {
+        top: 20px;
+        right: 20px;
+        bottom: 20px;
+        left: 20px;
+        opacity: 1;
+      }
+    
+    
+    .image-gallery .image-box:active img {
+        transform: scale(1.1);
+      }
+    
+    .image-gallery .image-box:active .details .title {
+        top: 0px;
+        opacity: 1;
+        visibility: visible;
+        transition: all 0.3s 0.2s ease;
+      }
+      
+      .image-gallery .image-box:active .details .category {
+        bottom: 0;
+        opacity: 1;
+        visibility: visible;
+        transition: all 0.3s 0.2s ease;
+      }
+    }
+    
+
+
+ 
 
