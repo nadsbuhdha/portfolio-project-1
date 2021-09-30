@@ -502,8 +502,8 @@ footer li i {
 
  /* gallery image hover effect */ 
 
- @media screen and (min-device-width: 768px) {
-    .image-gallery .image-box:active:hover .image-box:active .overlay {
+ @media screen and (min-width: 768px) {
+    .image-gallery .image-box:active:hover .image-box:active .overlay .opaque {
         top: 20px;
         right: 20px;
         bottom: 20px;
@@ -512,24 +512,25 @@ footer li i {
       }
     
     
-    .image-gallery .image-box:active:hover .image-box:active img {
+    .image-gallery .image-box:active:hover .image-box:active img .opaque {
         transform: scale(1.1);
       }
     
-    .image-gallery .image-box:active:hover .image-box:active .details .title {
+    .image-gallery .image-box:active:hover .image-box:active .details .title .opaque {
         top: 0px;
         opacity: 1;
         visibility: visible;
         transition: all 0.3s 0.2s ease;
       }
       
-      .image-gallery .image-box:active:hover .image-box:active .details .category {
+      .image-gallery .image-box:active:hover .image-box:active .details .category .opaque {
         bottom: 0;
         opacity: 1;
         visibility: visible;
         transition: all 0.3s 0.2s ease;
       }
     }
+    
     
 
 
