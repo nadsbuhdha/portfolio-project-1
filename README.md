@@ -19,8 +19,6 @@ The target audience for the website is musicians who need a studio to record or 
 
 ## User expectations
 
-
-
 As there is a specific target audience, musicians, for this website the following user expectations were considered when creating the site:
 
 *	The site is simple clear and easy to use. 
@@ -31,7 +29,6 @@ As there is a specific target audience, musicians, for this website the followin
 
 
 ## Colour Schemes 
-<hr>
 
 ** insert pics ***
 
@@ -39,7 +36,7 @@ As there is a specific target audience, musicians, for this website the followin
 Dark UI was chosen for the colour scheme of the website. Generally, studios are low light environments and often synonymous with night-time and after-hours usage, therefore the darker colour tones were utilised to represent that. Darker tones are more relevant to the websites branding. Dark colours in the navigation and footer contrast well with the images displayed across the site. 
 
 The navigation bar and the footer featured the colour: #19181a
-The navigation and footer links across the site featured the colour: D83fe7
+The navigation and footer links across the site featured the colour: #D83fe7
 A sleek purple which contrasted well with the dark navigation and footer, giving a professional look. 
 
 ## Fonts 
@@ -62,34 +59,57 @@ Balsamiq was utilised to create wireframes of the website. Idea templates were m
 
 ### Navigation bar  
 
-Each three pages of the site contains a navigation bar with links ‘home’ ‘gallery’ and ‘contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
-In the left-hand corner of the navigation bar, the websites logo is features which users can also press to revert back to the ‘home’ page. The use of the navigation bar eliminates the need to use the back button to manoeuvre around the website. 
+Each three pages of the site contain a navigation bar with links ‘home’ ‘gallery’ and ‘contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
+
+![Alt Text](assets/images/Nav-bar.png)
+
+![Alt Text](assets/images/Nav-bar-highlighted.png)
+
+In the left-hand corner of the navigation bar, the websites logo is featured which users can also press to revert back to the ‘home’ page. The use of the navigation bar eliminates the need to use the back button to manoeuvre around the website. 
+
+![Alt Text](assets/images/logo.png)
 
 Landing page hero image – A large, midrange shot of the studio control room was used as the home pages hero image. This has been used in order to draw potential website users in and immediately give them an idea of the studio and what will be available to them. 
 A text overlay with the words ‘recording, rehearsing, mixing & mastering’ was placed on top of the text to give a short and snappy overview of the overall usages of the studio.  
 
+![Alt Text](assets/images/hero-image.webp)
 
 
 ### About us section
 
-** insert pics ***
+The about us section contains two brief descriptions of who we are as well as an overview of the type of equipment and resources we have available. Each section is of equal size and features a h2 heading with a short paragraph underneath outlining important information about the studio. The h2 letter spacing is set at 0.2em so that the spacing draws the user in yet is still responsive to smaller devices. It is  explicitly stated that this studio is available for any ability musicians in order to ensure amateur musicians are enticed to use the studio whilst more advanced musicians are aware their needs will be catered for.  
 
-The about us section contains two brief descriptions of who we are as well as an overview of the type of equipment and resources we have available. It is also explicated stated that this studio is available for any ability musicians in order to ensure amateur musicians are enticed to use the studio whilst more advanced musicians are aware their needs will be catered for.  
+![Alt Text](assets/images/about-us.png)
 
 ### Footer
  
-** insert pics ***
 
 The bottom of each pages features a footer which has links to social media sites. These links open in a new browser page so users are not diverted away from the website. The hover element, featured in the header, is utilised in the footer to keep the congruence of the website.  
+
+![Alt Text](assets/images/footer.png)
 
 ### Gallery
 
 ** insert pics ***
 
 
-Images - The gallery page features a variety of photos of the studio, equipment recording and mixing spaces. The gallery is organised into ‘instagram’ styled boxes with a short caption about the resources featured in each picture. The gives the user a visual insight into what they can expect when booking a session within the studio. 
+Images - The gallery page features a variety of photos of the studio, equipment recording and mixing spaces. The gallery is organised into ‘instagram’ styled boxes (using the 'display:grid') with a short caption about the resources featured in each picture. The gives the user a visual insight into what they can expect when booking a session within the studio. The image gallery is fully responsive with images resizing depending on the device size. 
 
-Video – Underneath the images there is a You-Tube link to a video of a live recording within the studio. This further imbeds the idea into the user of what is achievable with in the studio. 
+Desktop view
+![Alt Text](assets/images/image-gallery.webp) 
+
+<br>
+
+Mobile view
+<br>
+
+![Alt Text](assets/images/image-gallery-mobile.webp) 
+
+
+
+Video – Underneath the images there is a clickable You-Tube link to a video of a live recording within the studio. This further imbeds the idea into the user of what is achievable with in the studio. 
+
+![Alt Text](assets/images/image-gallery-video.webp)
 
 ### Contact us  
 

@@ -500,7 +500,7 @@ footer li i {
     }
  }
 
- /* gallery image hover effect */ 
+ /* image gallery hover/tap on mobile/tablet devices effect */ 
 
  @media screen and (min-width: 768px) {
     .image-gallery .image-box:active:hover .image-box:active .overlay .opaque {
