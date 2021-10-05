@@ -41,17 +41,38 @@ A sleek purple which contrasted well with the dark navigation and footer, giving
 
 ## Fonts 
 
-
-
 Open sans was used for the heading fonts. Open sans is recommended for its legibility, high readability, and friendly appearance. Sans-serif was utilised as a back-up font. 
 
 Monserrat was chosen for the main body text. A clean and sophisticated font, it was recommended by google fonts to compliment Open Sans. San Serif was also used as a back-up font. 
 
 ## Wireframes 
 
-** insert pics **
-
 Balsamiq was utilised to create wireframes of the website. Idea templates were mocked up in order to develop an idea of how elements of the websites would work across different platforms and how responsive elements may look resized.
+
+### Mobile Home Page
+![Alt Text](assets/images/homepage-mobile.webp)
+
+### Mobile Gallery Page
+
+![Alt Text](assets/images/mobile-gallery.webp)
+
+### Mobile Contact Page
+
+![Alt Text](assets/images/contact-mobile.webp)
+
+### Desktop Home Page
+
+![Alt Text] (assets/images/desktop-homepage.webp)
+
+
+### Desktop Gallery Page
+
+![Alt Text (assets/images/desktop-gallery.webp)
+
+
+### Desktop Contact Page
+
+![Alt Text](assets/images/desktop-contact.webp)
 
 ## Features
 
@@ -115,7 +136,13 @@ Video – Underneath the images there is a clickable You-Tube link to a video of
 
 The contact us page features a form which allows users to enter their name, email & phone number. It also allows users to specify date which they would like to book the studio. The contact form includes a mandatory field where users must input their information in order to contact. 
 
-A google maps Is included under the contact form so users can easily locate the studio. 
+![Alt Text](assets/images/contact-us.png)
+
+A google map is included under the contact form so users can easily locate the studio. 
+
+![Alt Text](assets/images/googlemap.webp)
+
+
 
 
 ## Technologies used
@@ -126,4 +153,5 @@ A google maps Is included under the contact form so users can easily locate the 
 * Googlefonts – for site fonts 
 * Tinypng – for compressing images and converting image files
 * Font awesome – for site icons 
-* W3C Markup and Jigsaw validation  were used to test and validate the HTML and CSS 
+* W3C Markup and Jigsaw validation  - used to test and validate the HTML and CSS 
+* Javascript - Used for the on click implimentation of the gallery images / text.
