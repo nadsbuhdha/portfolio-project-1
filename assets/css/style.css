@@ -424,7 +424,7 @@ footer li i {
 }
 
 
-@media only screen and (max-width: 691px) {
+@media only screen and (max-width: 693px) {
     #logo {
         float:none
     }
@@ -433,7 +433,7 @@ footer li i {
 
 /* small screens */
 
-@media screen and (max-width: 691px) {
+@media screen and (max-width: 693px) {
 
     #menu {
         clear: left;
@@ -466,7 +466,7 @@ footer li i {
 }
  /*image gallery responsive */
 
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 988px) {
 
  .image-gallery {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -482,6 +482,15 @@ footer li i {
 }
 
 /* large screens */
+
+@media screen and (min-width: 1000px) {
+    #about-us p {
+        max-width: 1000px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+}
+
 
 @media screen and (min-width: 1000px) {
     .signup-form {
