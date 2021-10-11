@@ -394,6 +394,12 @@ footer li i {
 
 /* google map */
 
+#map-heading {
+    text-align: center;
+    padding: 20px;
+    
+}
+
 .mapwrapper {
     max-width: 500px;
     margin-left:auto;
@@ -509,9 +515,9 @@ footer li i {
         height: 1940px;
     }
 
-    .googlemap {
+    /*.googlemap {
         padding-top:500px;
-    }
+    } */
  }
 
  /* image gallery hover/tap on mobile/tablet devices effect */ 
