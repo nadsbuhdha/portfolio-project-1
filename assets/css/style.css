@@ -467,6 +467,25 @@ footer li i {
         max-width: 280px
     }
 }
+/* ipad pro screen */
+
+
+@media screen and ( min-height: 1200px ) {
+    #studio-ethos {
+        height: 700px;
+    }
+    #about-us {
+        height:350px
+    }
+    #equiptment {
+        height:350px
+
+    }
+
+
+}
+
+
  /*image gallery responsive */
 
  @media screen and (max-width: 988px) {
