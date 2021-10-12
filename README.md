@@ -154,3 +154,34 @@ A google map is included under the contact form so users can easily locate the s
 * Font awesome – for site icons 
 * W3C Markup and Jigsaw validation  - used to test and validate the HTML and CSS 
 * Javascript - Used for the on click implimentation of the gallery images / text.
+
+## Testing 
+
+### Google developer tools 
+Google chrome developer tools were consistantly utilised throughout the building of the website to rigorously test the responsivenes of the elements within the site. 
+The inspect tool was ultised to manipulate and alter elements within the website for testing. Once element dimensions and alterations were successful, the CSS was copied into the CSS stylesheet and chages were permanently applied. 
+
+### manuel testing
+
+Manuel testing on devices was also undertaken, devices tested include:
+
+* Iphone x
+* Ipone 11
+* Ipad 
+* huawei p30
+
+To ensure cross compatability, different browsers were tested these included :
+* Safari
+* Firefox
+* Googlechrome 
+
+### W3C Validator Tools
+
+
+
+
+
+
+
+
+
