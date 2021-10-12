@@ -30,9 +30,6 @@ As there is a specific target audience, musicians, for this website the followin
 
 ## Colour Schemes 
 
-** insert pics ***
-
-
 Dark UI was chosen for the colour scheme of the website. Generally, studios are low light environments and often synonymous with night-time and after-hours usage, therefore the darker colour tones were utilised to represent that. Darker tones are more relevant to the websites branding. Dark colours in the navigation and footer contrast well with the images displayed across the site. 
 
 The navigation bar and the footer featured the colour: #19181a
@@ -111,9 +108,6 @@ The bottom of each pages features a footer which has links to social media sites
 
 ### Gallery
 
-** insert pics ***
-
-
 Images - The gallery page features a variety of photos of the studio, equipment recording and mixing spaces. The gallery is organised into ‘instagram’ styled boxes (using the 'display:grid') with a short caption about the resources featured in each picture. The gives the user a visual insight into what they can expect when booking a session within the studio. The image gallery is fully responsive with images resizing depending on the device size. 
 
 Desktop view
@@ -137,6 +131,11 @@ Video – Underneath the images there is a clickable You-Tube link to a video of
 The contact us page features a form which allows users to enter their name, email & phone number. It also allows users to specify date which they would like to book the studio. The contact form includes a mandatory field where users must input their information in order to contact. 
 
 ![Alt Text](assets/images/contact-us.png)
+
+The contact form shows that information has correctly been submitted.
+
+![Alt Text](assets/images/formdump.webp)
+
 
 A google map is included under the contact form so users can easily locate the studio. 
 
