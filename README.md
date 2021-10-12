@@ -175,13 +175,54 @@ To ensure cross compatability, different browsers were tested these included :
 * Firefox
 * Googlechrome 
 
-### W3C Validator Tools
+## W3C Validator Tools
+
+W3C Validator was used to check for error within my HTML code. 
+
+The final check presented error free HTML 
+
+### Index Page
+![Alt Text](assets/images/indexpagew3c1.webp)
+
+### Gallery Page
+![Alt Text](assets/images/galleryw2c.webp)
+
+### Contact Page
+![Alt Text](assets/images/contactw2c.webp)
+
+## CSS Validator 
+
+The CSS passed through the validator without any issues. 
+![Alt Text](assets/images/csswc2.png)
+
+Inital preceeding bugs found in HTML & CSS are discussed in the BUGS section. 
 
 
+## Lighthouse Testing
 
+Lighthouse was utilised to test the performance, accessability, best practices and SEO of the website. 
+Both desktop and mobile were tested. 
 
+### Home Page Desktop
 
+![Alt Text](assets/images/indexjigsaw.webp)
 
+### Gallery Page Desktop
 
+![Alt Text](assets/images/gallerylighthouse.webp)
 
+### Contact Page Desktop
 
+![Alt Text](assets/images/contactlighthouse.png)
+
+### Home Page Mobile
+
+![Alt Text](assets/images/indexpagemobilelight.png)
+
+### Gallery Page Mobile
+
+![Alt Text](assets/images/gallerymoblighthouse.png)
+
+### Contact Page Mobile
+
+![Alt Text](assets/images/contactmoblighthouse.webp)
