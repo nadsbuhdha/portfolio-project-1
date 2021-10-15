@@ -147,6 +147,7 @@ footer {
 
 footer ul {
   text-align: center;
+  text-decoration: none;
 }
 
 footer ul li {
@@ -167,9 +168,14 @@ footer li i {
   padding-top: 25px;
 }
 
+.sm-icons a {
+  text-decoration: none;
+}
+
 .sm-icons :hover {
   transition: color 0.4s;
   color: #d83fe7;
+  
 }
 
 /* gallary page */

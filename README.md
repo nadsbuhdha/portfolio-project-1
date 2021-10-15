@@ -226,3 +226,10 @@ Both desktop and mobile were tested.
 ### Contact Page Mobile
 
 ![Alt Text](assets/images/contactmoblighthouse.webp)
+
+As evidenced, there is significant accessibility across the website on both mobile and desktop devices. The use of alt attributes and contrasting colours were utilised to achieve this. 
+The website performance was moderately downgraded on mobile devices. This is due to the use of images in the gallery section. Whilst the images were optimised for size, they still had a relative impact on mobile site performance.
+
+
+## Bugs
+
