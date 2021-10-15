@@ -233,3 +233,41 @@ The website performance was moderately downgraded on mobile devices. This is due
 
 ## Bugs
 
+### solved bugs
+
+* When I initally ran the HTML code through the validator, a stray div was highlighted. This was quickly resolved. 
+
+![Alt Text](assets/images/straydiv.webp)
+
+* A HTML validator error occurred during testing due to the imbedded iframe. The frameborder="0" caused the error and once removed, the error was solved.
+
+* When testing on the Ipad Pro, the home page did not have enough content to stretch its height to fit to the bottom of the page. This was solved with a media query which increased the height on the sections and divs once a minimum height was reached. 
+
+![Alt Text](assets/images/ipadtest.png)
+
+* When tested on mobile devices, the hover effect utilised on the gallery was not operational. In order to solve this an 'on:click' javascript element was added which allows users to tap images on the gallery to reveal the information. 
+
+* During testing, it was noticed that the gallery page nav bar would break due to the size of the image gallery. A max-width of 900px was used in order to solve this bug. 
+
+![Alt Text](assets/images/gallerynavbroken.webp)
+
+## Deployment
+
+The site was deployed to GitHub pages. The following steps were used to deploy :
+
+* In the GitHub repository, navigate to the Settings tab
+* Select the Pages sub-menu
+* From the source section drop-down menu, select the Master Branch, and then hit save
+* Once the master branch has been selected, the page provided a link to the live website. 
+
+A live link to the website can be found here - [Can't Stop Won't Stop Studios](https://nadsbuhdha.github.io/portfolio-project-1/)
+
+## Credits 
+
+### Content 
+
+* Images throughtout the website came from: https://unsplash.com/ and https://www.pexels.com/
+* The hero image was inspired by the 'Love Running' code institute project.
+* The form on the 'contact us' page was influnced and adapted by the Love Running' code institute project.
+* To create the image gallery, a youtube tutorial was utilised: https://www.youtube.com/watch?v=tSyYU0I9gYU&t=115s
+* The icons in the footer and contact page came from https://fontawesome.com/
