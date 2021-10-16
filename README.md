@@ -59,12 +59,12 @@ Balsamiq was utilised to create wireframes of the website. Idea templates were m
 
 ### Desktop Home Page
 
-![Alt Text] (assets/images/desktop-homepage.webp)
+![Alt Text](assets/images/desktop-homepage.webp)
 
 
 ### Desktop Gallery Page
 
-![Alt Text (assets/images/desktop-gallery.webp)
+![Alt Text](assets/images/desktop-gallery.webp)
 
 
 ### Desktop Contact Page
@@ -77,13 +77,13 @@ Balsamiq was utilised to create wireframes of the website. Idea templates were m
 
 ### Navigation bar  
 
-Each three pages of the site contain a navigation bar with links ‘home’ ‘gallery’ and ‘contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
+Each three pages of the site contain a navigation bar with links ‘Home’ ‘Gallery’ and ‘Contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
 
 ![Alt Text](assets/images/Nav-bar.png)
 
 ![Alt Text](assets/images/Nav-bar-highlighted.png)
 
-In the left-hand corner of the navigation bar, the websites logo is featured which users can also press to revert back to the ‘home’ page. The use of the navigation bar eliminates the need to use the back button to manoeuvre around the website. 
+In the left-hand corner of the navigation bar, the websites logo is featured which users can also press to revert back to the 'Home’ page. The use of the navigation bar eliminates the need to use the back button to manoeuvre around the website. 
 
 ![Alt Text](assets/images/logo.png)
 
@@ -228,7 +228,7 @@ Both desktop and mobile were tested.
 ![Alt Text](assets/images/contactmoblighthouse.webp)
 
 As evidenced, there is significant accessibility across the website on both mobile and desktop devices. The use of alt attributes and contrasting colours were utilised to achieve this. 
-The website performance was moderately downgraded on mobile devices. This is due to the use of images in the gallery section. Whilst the images were optimised for size, they still had a relative impact on mobile site performance.
+The website performance was moderately downgraded on mobile devices. This is due to the use of images in the gallery section. Whilst the images were optimised for size, they still had a minor impact on mobile site performance.
 
 
 ## Bugs
@@ -268,6 +268,6 @@ A live link to the website can be found here - [Can't Stop Won't Stop Studios](h
 
 * Images throughtout the website came from: https://unsplash.com/ and https://www.pexels.com/
 * The hero image was inspired by the 'Love Running' code institute project.
-* The form on the 'contact us' page was influnced and adapted by the Love Running' code institute project.
+* The form on the 'contact us' page was influnced and adapted by the 'Love Running' code institute project.
 * To create the image gallery, a youtube tutorial was utilised: https://www.youtube.com/watch?v=tSyYU0I9gYU&t=115s
 * The icons in the footer and contact page came from https://fontawesome.com/
