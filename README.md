@@ -12,12 +12,12 @@ You can view the website here : https://nadsbuhdha.github.io/portfolio-project-1
 
 The aim of the website is to give musicians from varying different backgrounds a quality rehearsal, recording, mixing and mastering space with a range of equipment as well as space for individual’s equipment to be used. The website, through the gallery, demonstrates the availability of said equipment. 
 
-## Target auidence
+## Target Audience
 
 The target audience for the website is musicians who need a studio to record or rehearse. The space is equipt so any genre of music can have access to equipment and space available. The accessibility of the studio allows beginner musicians to access the equipment and facilities with ease. In order to attract potential clients, equipment has been displayed alongside live music sessions to showcase the scope and range of what is achievable. 
 
 
-## User expectations
+## User Expectations
 
 As there is a specific target audience, musicians, for this website the following user expectations were considered when creating the site:
 
@@ -75,7 +75,7 @@ Balsamiq was utilised to create wireframes of the website. Idea templates were m
 
 
 
-### Navigation bar  
+### Navigation Bar  
 
 Each three pages of the site contain a navigation bar with links ‘Home’ ‘Gallery’ and ‘Contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
 
@@ -93,7 +93,7 @@ A text overlay with the words ‘recording, rehearsing, mixing & mastering’ wa
 ![Alt Text](assets/images/hero-image.webp)
 
 
-### About us section
+### About Us Section
 
 The about us section contains two brief descriptions of who we are as well as an overview of the type of equipment and resources we have available. Each section is of equal size and features a h2 heading with a short paragraph underneath outlining important information about the studio. The h2 letter spacing is set at 0.2em so that the spacing draws the user in yet is still responsive to smaller devices. It is  explicitly stated that this studio is available for any ability musicians in order to ensure amateur musicians are enticed to use the studio whilst more advanced musicians are aware their needs will be catered for.  
 
@@ -126,7 +126,7 @@ Video – Underneath the images there is a clickable You-Tube link to a video of
 
 ![Alt Text](assets/images/image-gallery-video.webp)
 
-### Contact us  
+### Contact Us  
 
 The contact us page features a form which allows users to enter their name, email & phone number. It also allows users to specify date which they would like to book the studio. The contact form includes a mandatory field where users must input their information in order to contact. 
 
@@ -144,7 +144,7 @@ A google map is included under the contact form so users can easily locate the s
 
 
 
-## Technologies used
+## Technologies Used
 
 * HTML5 – for structuring the website
 * CSS3 –  for styling the website
@@ -161,9 +161,9 @@ A google map is included under the contact form so users can easily locate the s
 Google chrome developer tools were consistantly utilised throughout the building of the website to rigorously test the responsivenes of the elements within the site. 
 The inspect tool was ultised to manipulate and alter elements within the website for testing. Once element dimensions and alterations were successful, the CSS was copied into the CSS stylesheet and chages were permanently applied. 
 
-### manuel testing
+### Manual Testing
 
-Manuel testing on devices was also undertaken, devices tested include:
+Manual testing on devices was also undertaken, devices tested include:
 
 * Iphone x
 * Ipone 11
@@ -233,7 +233,7 @@ The website performance was moderately downgraded on mobile devices. This is due
 
 ## Bugs
 
-### solved bugs
+### Solved Bugs
 
 * When I initally ran the HTML code through the validator, a stray div was highlighted. This was quickly resolved. 
 
