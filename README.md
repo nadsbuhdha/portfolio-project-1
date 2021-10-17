@@ -262,6 +262,29 @@ The site was deployed to GitHub pages. The following steps were used to deploy :
 
 A live link to the website can be found here - [Can't Stop Won't Stop Studios](https://nadsbuhdha.github.io/portfolio-project-1/)
 
+
+## Finished Product
+
+### Home Page
+
+![Alt Text](assets/images/homepage1.webp)
+
+![Alt Text](assets/images/homepage2.webp)
+
+### Gallery Page
+
+![Alt Text](assets/images/gallery1.webp)
+
+![Alt Text](assets/images/gallery2.webp)
+
+![Alt Text](assets/images/gallery3.webp)
+
+### Contact Page
+
+![Alt Text](assets/images/contactpage1.webp)
+
+![Alt Text](assets/images/contactpage2.webp)
+
 ## Credits 
 
 ### Content 
