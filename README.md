@@ -21,7 +21,7 @@ The target audience for the website is musicians who need a studio to record or 
 
 As there is a specific target audience, musicians, for this website the following user expectations were considered when creating the site:
 
-*	The site is simple clear and easy to use. 
+*	The site is simple, clear and easy to use. 
 *	The structure is logical and obvious.
 *	The site is responsive and users can expect to see the same content on different devices without a reduction in quality. 
 *	The media content included on the site is relevant and meaningful to the services provided
@@ -77,7 +77,7 @@ Balsamiq was utilised to create wireframes of the website. Idea templates were m
 
 ### Navigation Bar  
 
-Each three pages of the site contain a navigation bar with links ‘Home’ ‘Gallery’ and ‘Contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
+Each three pages of the site contain a navigation bar with links ‘Home’, ‘Gallery’ and ‘Contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
 
 ![Alt Text](assets/images/nav-bar.png)
 
@@ -174,6 +174,15 @@ To ensure cross compatability, different browsers were tested these included :
 * Safari
 * Firefox
 * Googlechrome 
+
+
+## Feature Testing
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 ## W3C Validator Tools
 
