@@ -165,7 +165,7 @@ The inspect tool was ultised to manipulate and alter elements within the website
 
 Manual testing on devices was also undertaken, devices tested include:
 
-* Iphone x
+* Iphone X
 * Ipone 11
 * Ipad 
 * Huawei p30
