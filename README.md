@@ -178,10 +178,15 @@ To ensure cross compatability, different browsers were tested these included :
 
 ## Feature Testing
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+### Navagation Bar
+
+Feature | Test | Outcome 
+------------ | ------------- | ----------
+Logo | Does the logo link direct users to home page  | Pass
+Home Button | Does the home link direct users to home page. Does the hover effect work when mouse hovers over button. Is the button underlined with the page is active | Pass
+Gallery Button | Does the gallery link direct users to home page. Does the hover effect work when mouse hovers over button. Is the button underlined with the page is active | Pass
+Contact Us Button | Does the contact us link direct users to home page. Does the hover effect work when mouse hovers over button. Is the button underlined with the page is active | Pass
+Navagation Bar | Is the navagation bar responsive on multiple devices. Does the navagation bar maintain congruence throughout the site. | Pass
 
 
 ## W3C Validator Tools
