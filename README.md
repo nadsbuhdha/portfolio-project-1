@@ -182,12 +182,45 @@ To ensure cross compatability, different browsers were tested these included :
 
 Feature | Test | Outcome 
 ------------ | ------------- | ----------
-Logo | Does the logo link direct users to home page  | Pass
-Home Button | Does the home link direct users to home page. Does the hover effect work when mouse hovers over button. Is the button underlined with the page is active | Pass
-Gallery Button | Does the gallery link direct users to home page. Does the hover effect work when mouse hovers over button. Is the button underlined with the page is active | Pass
-Contact Us Button | Does the contact us link direct users to home page. Does the hover effect work when mouse hovers over button. Is the button underlined with the page is active | Pass
-Navagation Bar | Is the navagation bar responsive on multiple devices. Does the navagation bar maintain congruence throughout the site. | Pass
+Logo | Does the logo link direct users to home page?  | Pass
+Home Button | Does the home link direct users to home page? Does the hover effect work when mouse hovers over button? Is the button underlined with the page is active? | Pass
+Gallery Button | Does the gallery link direct users to home page? Does the hover effect work when mouse hovers over button? Is the button underlined with the page is active? | Pass
+Contact Us Button | Does the contact us link direct users to home page? Does the hover effect work when mouse hovers over button? Is the button underlined with the page is active? | Pass
+Navagation Bar | Is the navagation bar responsive on multiple devices? Does the navagation bar maintain congruence throughout the site? Is there substantial contrast between colours and fonts to maintain visability? | Pass
 
+### Footer 
+
+Feature | Test | Outcome 
+------------ | ------------- | ----------
+Facebook | Does the icon highlight when hovered over? Does the icon open in a new browser page when clicked on ? | Pass
+Twitter | Does the icon highlight when hovered over? Does the icon open in a new browser page when clicked on ? | Pass
+Youtube | Does the icon highlight when hovered over? Does the icon open in a new browser page when clicked on ?  | Pass
+Instagram | Does the icon highlight when hovered over? Does the icon open in a new browser page when clicked on ?  | Pass
+
+### Home Page
+
+Feature | Test | Outcome 
+------------ | ------------- | ----------
+Hero Image | Is the hero image responsive on multiple devices?  | Pass
+Headings | Are the headings responive on multiple devies? Do the headings maintain congruence? | Pass
+Paragraphs | Are the Paragraphs responive on multiple devies? Do the paragraphs maintain congruence? | Pass
+
+### Gallery Page
+
+Feature | Test | Outcome 
+------------ | ------------- | ----------
+Image gallery | Do images load without being blurred or pixelated? Is the image gallery responsive on different device sizes? Do the images display the text underneath whether hovered over or clicked on? | Pass
+Youtube Link | Is the youtube link responsive? Is the link clickable ? Is the autoplay disabled? | Pass
+
+### Contact Page
+
+Feature | Test | Outcome 
+------------ | ------------- | ----------
+Form | Does the form have apporpirate information to submit? | Pass
+Form | Does the form disable submitting without all user information included ? | Pass
+Form | Does the submit hover effect trigger ? | Pass
+Form | Is the form responsive to different device sizes ? | Pass
+Iframe | Is the google map iframe responsive to different device sizes ? | Pass
 
 ## W3C Validator Tools
 
