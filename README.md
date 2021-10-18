@@ -79,9 +79,9 @@ Balsamiq was utilised to create wireframes of the website. Idea templates were m
 
 Each three pages of the site contain a navigation bar with links ‘Home’ ‘Gallery’ and ‘Contact’. Each of the links highlight when hovered over to indicate what the user is about to click on. The page which the user is on is underlined on the navigation bar. 
 
-![Alt Text](assets/images/Nav-bar.png)
+![Alt Text](assets/images/nav-bar.png)
 
-![Alt Text](assets/images/Nav-bar-highlighted.png)
+![Alt Text](assets/images/nav-bar-highlighted.png)
 
 In the left-hand corner of the navigation bar, the websites logo is featured which users can also press to revert back to the 'Home’ page. The use of the navigation bar eliminates the need to use the back button to manoeuvre around the website. 
 
