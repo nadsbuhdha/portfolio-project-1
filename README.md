@@ -126,9 +126,9 @@ Video – Underneath the images there is a clickable You-Tube link to a video of
 
 ![Alt Text](assets/images/image-gallery-video.webp)
 
-### Contact Us  
+### Contact  
 
-The contact us page features a form which allows users to enter their name, email & phone number. It also allows users to specify date which they would like to book the studio. The contact form includes a mandatory field where users must input their information in order to contact. 
+The Contact page features a form which allows users to enter their name, email & phone number. It also allows users to specify date which they would like to book the studio. The contact form includes a mandatory field where users must input their information in order to contact. 
 
 ![Alt Text](assets/images/contact-us.png)
 
@@ -338,6 +338,6 @@ A live link to the website can be found here - [Can't Stop Won't Stop Studios](h
 
 * Images throughout the website came from: https://unsplash.com/ and https://www.pexels.com/
 * The hero image was inspired by the 'Love Running' code institute project.
-* The form on the 'contact us' page was influenced and adapted by the 'Love Running' code institute project.
+* The form on the 'Contact' page was influenced and adapted by the 'Love Running' code institute project.
 * To create the image gallery, a youtube tutorial was utilised: https://www.youtube.com/watch?v=tSyYU0I9gYU&t=115s
 * The icons in the footer and contact page came from https://fontawesome.com/
