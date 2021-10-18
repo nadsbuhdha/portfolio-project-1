@@ -3,7 +3,7 @@
 ![Alt Text](assets/images/multiple-platforms.webp)
 
 
-Can’t stop won’t stop studios is a specialist musician website that aims to offer a recording, rehearsal, mixing and mastering studio for musicians of varying abilities and ranges based in Nottingham. With ever growing accessibility of music hardware and software, ‘bedroom producers’ have become ever present; whereby musicians record, perform and create music within the confines of their own house. Whilst becoming ever popular, ‘Bedroom producing’ has its limitations such as: equipment space, sound quality, lack of support, sound acoustics and a variety of other issues. Music studios are therefore still an important cog in the musicians’ wheel. Can’t stop won’t stop studios aims to provide a space where musicians can bring skeleton ideas to finish off to achieve a professional sound, or create brand new musical ideas from scratch. Throughout the website, the aim is to showcase the studio, the equipment, the abilities in the studio and give musicians and idea of what they can expect should they book a session. 
+Can’t stop won’t stop studios is a specialist musician website that aims to offer a recording, rehearsal, mixing and mastering studio for musicians of varying abilities and ranges based in Nottingham. With ever growing accessibility of music hardware and software, ‘bedroom producers’ have become ever present; whereby musicians record, perform and create music within the confines of their own house. Whilst becoming ever popular, ‘bedroom producing’ has its limitations such as: equipment space, sound quality, lack of support, sound acoustics and a variety of other issues. Music studios are therefore still an important cog in the musicians’ wheel. Can’t stop won’t stop studios aims to provide a space where musicians can bring skeleton ideas to finish off to achieve a professional sound, or create brand new musical ideas from scratch. Throughout the website, the aim is to showcase the studio, the equipment, the abilities in the studio and give musicians and idea of what they can expect should they book a session. 
 
 You can view the website here : https://nadsbuhdha.github.io/portfolio-project-1/index.html
 
@@ -40,7 +40,7 @@ A sleek purple which contrasted well with the dark navigation and footer, giving
 
 Open sans was used for the heading fonts. Open sans is recommended for its legibility, high readability, and friendly appearance. Sans-serif was utilised as a back-up font. 
 
-Monserrat was chosen for the main body text. A clean and sophisticated font, it was recommended by google fonts to compliment Open Sans. San Serif was also used as a back-up font. 
+Monserrat was chosen for the main body text. As a clean and sophisticated font, it was recommended by google fonts to compliment Open Sans. San Serif was also used as a back-up font. 
 
 ## Wireframes 
 
@@ -95,7 +95,7 @@ A text overlay with the words ‘recording, rehearsing, mixing & mastering’ wa
 
 ### About Us Section
 
-The about us section contains two brief descriptions of who we are as well as an overview of the type of equipment and resources we have available. Each section is of equal size and features a h2 heading with a short paragraph underneath outlining important information about the studio. The h2 letter spacing is set at 0.2em so that the spacing draws the user in yet is still responsive to smaller devices. It is  explicitly stated that this studio is available for any ability musicians in order to ensure amateur musicians are enticed to use the studio whilst more advanced musicians are aware their needs will be catered for.  
+The about us section contains two brief descriptions of who we are, as well as an overview of the type of equipment and resources we have available. Each section is of equal size and features a h2 heading with a short paragraph underneath outlining important information about the studio. The h2 letter spacing is set at 0.2em so that the spacing draws the user in yet is still responsive to smaller devices. It is  explicitly stated that this studio is available for any ability musicians in order to ensure amateur musicians are enticed to use the studio whilst more advanced musicians are aware their needs will be catered for.  
 
 ![Alt Text](assets/images/about-us.png)
 
@@ -122,7 +122,7 @@ Mobile view
 
 
 
-Video – Underneath the images there is a clickable You-Tube link to a video of a live recording within the studio. This further imbeds the idea into the user of what is achievable with in the studio. 
+Video – Underneath the images there is a clickable You-Tube link to a video of a live recording within the studio. This further embeds the idea into the user of what is achievable with in the studio. 
 
 ![Alt Text](assets/images/image-gallery-video.webp)
 
@@ -153,7 +153,7 @@ A google map is included under the contact form so users can easily locate the s
 * Tinypng – for compressing images and converting image files
 * Font awesome – for site icons 
 * W3C Markup and Jigsaw validation  - used to test and validate the HTML and CSS 
-* Javascript - Used for the on click implimentation of the gallery images / text.
+* Javascript - Used for the on click implimentation of the gallery images / text
 
 ## Testing 
 
@@ -168,7 +168,7 @@ Manual testing on devices was also undertaken, devices tested include:
 * Iphone x
 * Ipone 11
 * Ipad 
-* huawei p30
+* Huawei p30
 
 To ensure cross compatability, different browsers were tested these included :
 * Safari
@@ -203,7 +203,7 @@ Feature | Test | Outcome
 ------------ | ------------- | ----------
 Hero Image | Is the hero image responsive on multiple devices?  | Pass
 Headings | Are the headings responive on multiple devies? Do the headings maintain congruence? | Pass
-Paragraphs | Are the Paragraphs responive on multiple devies? Do the paragraphs maintain congruence? | Pass
+Paragraphs | Are the Paragraphs responsive on multiple devies? Do the paragraphs maintain congruence? | Pass
 
 ### Gallery Page
 
