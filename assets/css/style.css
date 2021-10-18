@@ -299,7 +299,7 @@ footer li i {
   width: 100%;
   max-width: 800px;
   margin: 3em auto;
-  border: 5px orange;
+  border: 5px;
 }
 
 .iframe-container {

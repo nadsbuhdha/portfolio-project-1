@@ -3,7 +3,7 @@
 ![Alt Text](assets/images/multiple-platforms.webp)
 
 
-Can’t stop won’t stop studios is a specialist musician website that aims to offer a recording, rehearsal, mixing and mastering studio for musicians of varying abilities and ranges based in Nottingham. With ever growing accessibility of music hardware and software, ‘bedroom producers’ have become ever present; whereby musicians record, perform and create music within the confines of their own house. Whilst becoming ever popular, ‘bedroom producing’ has its limitations such as: equipment space, sound quality, lack of support, sound acoustics and a variety of other issues. Music studios are therefore still an important cog in the musicians’ wheel. Can’t stop won’t stop studios aims to provide a space where musicians can bring skeleton ideas to finish off to achieve a professional sound, or create brand new musical ideas from scratch. Throughout the website, the aim is to showcase the studio, the equipment, the abilities in the studio and give musicians and idea of what they can expect should they book a session. 
+Can’t Stop Won’t Stop studios is a specialist musician website that aims to offer a recording, rehearsal, mixing and mastering studio for musicians of varying abilities and ranges based in Nottingham. With ever growing accessibility of music hardware and software, ‘bedroom producers’ have become ever present; whereby musicians record, perform and create music within the confines of their own house. Whilst becoming ever popular, ‘bedroom producing’ has its limitations such as: equipment space, sound quality, lack of support, sound acoustics and a variety of other issues. Music studios are therefore still an important cog in the musicians’ wheel. Can’t stop won’t stop studios aims to provide a space where musicians can bring skeleton ideas to finish off to achieve a professional sound, or create brand new musical ideas from scratch. Throughout the website, the aim is to showcase the studio, the equipment, the abilities in the studio and give musicians and idea of what they can expect should they book a session. 
 
 You can view the website here : https://nadsbuhdha.github.io/portfolio-project-1/index.html
 
@@ -14,7 +14,7 @@ The aim of the website is to give musicians from varying different backgrounds a
 
 ## Target Audience
 
-The target audience for the website is musicians who need a studio to record or rehearse. The space is equipt so any genre of music can have access to equipment and space available. The accessibility of the studio allows beginner musicians to access the equipment and facilities with ease. In order to attract potential clients, equipment has been displayed alongside live music sessions to showcase the scope and range of what is achievable. 
+The target audience for the website is musicians who need a studio to record or rehearse. The space is equipped so any genre of music can have access to equipment and space available. The accessibility of the studio allows beginner musicians to access the equipment and facilities with ease. In order to attract potential clients, equipment has been displayed alongside live music sessions to showcase the scope and range of what is achievable. 
 
 
 ## User Expectations
@@ -158,8 +158,8 @@ A google map is included under the contact form so users can easily locate the s
 ## Testing 
 
 ### Google developer tools 
-Google chrome developer tools were consistantly utilised throughout the building of the website to rigorously test the responsivenes of the elements within the site. 
-The inspect tool was ultised to manipulate and alter elements within the website for testing. Once element dimensions and alterations were successful, the CSS was copied into the CSS stylesheet and chages were permanently applied. 
+Google chrome developer tools were consistently utilised throughout the building of the website to rigorously test the responsiveness of the elements within the site. 
+The inspect tool was utilised to manipulate and alter elements within the website for testing. Once element dimensions and alterations were successful, the CSS was copied into the CSS stylesheet and changes were permanently applied. 
 
 ### Manual Testing
 
@@ -170,7 +170,7 @@ Manual testing on devices was also undertaken, devices tested include:
 * Ipad 
 * Huawei p30
 
-To ensure cross compatability, different browsers were tested these included :
+To ensure cross compatibility, different browsers were tested these included :
 * Safari
 * Firefox
 * Googlechrome 
@@ -178,7 +178,7 @@ To ensure cross compatability, different browsers were tested these included :
 
 ## Feature Testing
 
-### Navagation Bar
+### Navigation Bar
 
 Feature | Test | Outcome 
 ------------ | ------------- | ----------
@@ -186,7 +186,7 @@ Logo | Does the logo link direct users to home page?  | Pass
 Home Button | Does the home link direct users to home page? Does the hover effect work when mouse hovers over button? Is the button underlined with the page is active? | Pass
 Gallery Button | Does the gallery link direct users to home page? Does the hover effect work when mouse hovers over button? Is the button underlined with the page is active? | Pass
 Contact Us Button | Does the contact us link direct users to home page? Does the hover effect work when mouse hovers over button? Is the button underlined with the page is active? | Pass
-Navagation Bar | Is the navagation bar responsive on multiple devices? Does the navagation bar maintain congruence throughout the site? Is there substantial contrast between colours and fonts to maintain visability? | Pass
+Navigation Bar | Is the Navigation bar responsive on multiple devices? Does the Navigation bar maintain congruence throughout the site? Is there substantial contrast between colours and fonts to maintain visibility? | Pass
 
 ### Footer 
 
@@ -202,8 +202,8 @@ Instagram | Does the icon highlight when hovered over? Does the icon open in a n
 Feature | Test | Outcome 
 ------------ | ------------- | ----------
 Hero Image | Is the hero image responsive on multiple devices?  | Pass
-Headings | Are the headings responive on multiple devies? Do the headings maintain congruence? | Pass
-Paragraphs | Are the Paragraphs responsive on multiple devies? Do the paragraphs maintain congruence? | Pass
+Headings | Are the headings responsive on multiple devices? Do the headings maintain congruence? | Pass
+Paragraphs | Are the Paragraphs responsive on multiple devices? Do the paragraphs maintain congruence? | Pass
 
 ### Gallery Page
 
@@ -216,7 +216,7 @@ Youtube Link | Is the youtube link responsive? Is the link clickable ? Is the au
 
 Feature | Test | Outcome 
 ------------ | ------------- | ----------
-Form | Does the form have apporpirate information to submit? | Pass
+Form | Does the form have appropriate information to submit? | Pass
 Form | Does the form disable submitting without all user information included ? | Pass
 Form | Does the submit hover effect trigger ? | Pass
 Form | Is the form responsive to different device sizes ? | Pass
@@ -242,12 +242,12 @@ The final check presented error free HTML
 The CSS passed through the validator without any issues. 
 ![Alt Text](assets/images/csswc2.png)
 
-Inital preceeding bugs found in HTML & CSS are discussed in the BUGS section. 
+Initial preceding bugs found in HTML & CSS are discussed in the BUGS section. 
 
 
 ## Lighthouse Testing
 
-Lighthouse was utilised to test the performance, accessability, best practices and SEO of the website. 
+Lighthouse was utilised to test the performance, accessibility, best practices and SEO of the website. 
 Both desktop and mobile were tested. 
 
 ### Home Page Desktop
@@ -282,7 +282,7 @@ The website performance was moderately downgraded on mobile devices. This is due
 
 ### Solved Bugs
 
-* When I initally ran the HTML code through the validator, a stray div was highlighted. This was quickly resolved. 
+* When I initially ran the HTML code through the validator, a stray div was highlighted. This was quickly resolved. 
 
 ![Alt Text](assets/images/straydiv.webp)
 
@@ -336,8 +336,8 @@ A live link to the website can be found here - [Can't Stop Won't Stop Studios](h
 
 ### Content 
 
-* Images throughtout the website came from: https://unsplash.com/ and https://www.pexels.com/
+* Images throughout the website came from: https://unsplash.com/ and https://www.pexels.com/
 * The hero image was inspired by the 'Love Running' code institute project.
-* The form on the 'contact us' page was influnced and adapted by the 'Love Running' code institute project.
+* The form on the 'contact us' page was influenced and adapted by the 'Love Running' code institute project.
 * To create the image gallery, a youtube tutorial was utilised: https://www.youtube.com/watch?v=tSyYU0I9gYU&t=115s
 * The icons in the footer and contact page came from https://fontawesome.com/
